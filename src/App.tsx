@@ -1,4 +1,3 @@
-import { useState, useEffect } from 'react';
 import { AppProvider, useApp } from './AppContext';
 import Screen1 from './screens/Screen1Landing';
 import Screen2 from './screens/Screen2OCR';
